@@ -1,0 +1,9 @@
+{
+  "name": "php socket udemy",
+  "version": "0.0.1",
+  "description": "Udemy için php socket kullanımı",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}

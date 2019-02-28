@@ -1,0 +1,14 @@
+{
+    "require": {
+        "wisembly/elephant.io": "^3.3",
+        "windwalker/edge":"3.0",
+        "illuminate/database": "^5.7",
+        "illuminate/events": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "System\\":"System/"
+        }
+    }
+}
